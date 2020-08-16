@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "https://erikagola.github.io/mywebsite/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Academics"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
